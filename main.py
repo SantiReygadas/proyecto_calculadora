@@ -16,7 +16,7 @@ def menu():
         print("5. Suma Avanzada")
         print("-------------------------------")
 
-        opcion = int(input("¿Que acción quieres realizar? "))
+        opcion = int(input("¿Que acción quieres realizar? (Selecciona el número)"))
 
         if opcion == 1:
             suma()
